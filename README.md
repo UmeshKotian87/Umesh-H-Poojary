@@ -1,1 +1,88 @@
-# Umesh-H-Poojary
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Umesh H Poojary</strong>
+</h1>
+
+<h3>🚀 Full Stack Developer | MERN • Python • </h3>
+
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+<p>
+I build fast, scalable, and visually engaging digital experiences 💻✨  
+From clean UI to powerful backend systems, I turn ideas into real-world applications.
+</p>
+
+---
+
+### 🌍 About Me
+- 📍 India  
+- 📧 umeshak506@gmail.com  
+- 🤝 Open to Web Development Collaboration  
+- ⚡ Fun fact: Developer in progress 🚀
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Umesh-H-Poojary"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+
+### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio" />
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Portfolio Website  
+🔹 E-Commerce App  
+🔹 Flutter App  
+
+*(👉 Add your project links here)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umesh-H-Poojary&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umesh-H-Poojary&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Umesh-H-Poojary&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## ❤️ Support Me
+
+<p align="center">
+  <a href="#">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Umesh-H-Poojary&style=flat-square&color=blue" />
+</p>
